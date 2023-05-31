@@ -28,6 +28,9 @@ a:hover {
 
 body {
     background-image: url(abertura.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .container {
